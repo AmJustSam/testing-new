@@ -35,7 +35,7 @@ const collections = [
 const products = [
   {
     id: 1,
-    title: "Classic White T-Shirt",
+    title: "Classic White T-Shirt Bingo Bingo Bingo",
     description: "A comfortable cotton T-shirt.",
     price: 19.99,
     image:
